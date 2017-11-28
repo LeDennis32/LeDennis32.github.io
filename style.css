@@ -3,3 +3,11 @@ html, body {
 	background: black;
 	color: white;
 }
+
+a {
+	color: #EEE;
+}
+
+a:hover {
+	text-decoration: none;
+}
