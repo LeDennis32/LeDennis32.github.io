@@ -1,12 +1,12 @@
 html, body {
 	font-size: 18px;
 	font-family: sans-serif;
-	background: black;
-	color: white;
+	background: #222222;
+	color: #EEEEEE;
 }
 
 a {
-	color: #EEE;
+	color: #DDDDDD;
 }
 
 a:hover {
