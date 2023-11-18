@@ -1,8 +1,11 @@
-html, body {
+body {
 	font-size: 18px;
 	font-family: sans-serif;
 	background: #111111;
 	color: #EEEEEE;
+	margin: 10px 20px;
+	border-left: 2px solid #555555;
+	padding: 1px 15px;
 }
 
 #text {
