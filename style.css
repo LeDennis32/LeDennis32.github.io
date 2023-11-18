@@ -5,10 +5,15 @@ html, body {
 	color: #EEEEEE;
 }
 
-a {
-	color: #DDDDDD;
+a, .myname {
+	color: #cfeeff;
+}
+
+.pink {
+	color: #fcdcfc;
 }
 
 a:hover {
 	text-decoration: none;
+	color: #fcdcfc;
 }
